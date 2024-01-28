@@ -1,7 +1,7 @@
 # Cod-Iw6x-Ghosts-mods
 Call of duty Ghost, Mods.
 
-### Horde mode:
+### Horde mod:
 + Scoreboard (zombies style)
 + Custom class
 + Custom creates
@@ -15,7 +15,6 @@ Shop:
 + Revive&Respawn all players
 \
 
-\
 Bank:
 + Deposit
 + Withdraw
